@@ -1,3 +1,5 @@
 This is for demo branch
 
-I am going totest it
+I am going to test it
+1)ADC
+2)RTC
