@@ -4,3 +4,4 @@ I am going to test it
 1)ADC
 2)RTC
 3)uart
+4)spi
